@@ -8,6 +8,8 @@ This is a weapon, vehicle spawner and a teleporting menu. It's also known as a P
 
 **Please read:**
 
+Keybind : - F3
+
 If you want players to access the menu in only red zones or any other coords. Go to line and do the following:
 
 ```
