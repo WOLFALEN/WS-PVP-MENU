@@ -4,7 +4,7 @@
 
 This is a weapon, vehicle spawner and a teleporting menu. It's also known as a PvP menu that can be used only in a red zone (This is optional). 
 
-
+Also add teleport effect
 
 **Please read:**
 
