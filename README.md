@@ -20,3 +20,6 @@ If you want players to access the menu in only red zones or any other coords. Go
         end
 
 ```
+
+![Screenshot 2023-06-15 121647](https://github.com/WOLFALEN/WS-PVP-MENU/assets/123537406/a332ff19-81cb-4ef3-a31c-61619a0114a6)
+
