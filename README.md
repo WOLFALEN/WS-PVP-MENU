@@ -5,7 +5,7 @@ WOLF DEVELOPMENTS PVP MENU
 
 **what is mMenu?**
 
-This is a weapon, vehicle spawner and a teleporting menu. It's also known as a PvP menu that can be used only in a red zone (This is optional). 
+This is a weapon, health , armour and teleporting menu. It's also known as a PvP menu that can be used only in a red zone (This is optional). 
 
 
 
